@@ -9,7 +9,7 @@ group :development, :test do
   # Use sqlite3 as the database for Active Record
   gem 'sqlite3'
   # Use rspec as the test framework
-  gem 'rspec-rails', '2.13.1'
+  gem 'rspec-rails', '~> 2.14.0.rc1'
   gem 'guard-rspec', '2.5.0'
 end
 
